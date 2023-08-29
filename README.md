@@ -1,2 +1,2 @@
 # api-vendas-spring-boot
-Api rest feigta com spring boot
+Api rest feita com spring boot
