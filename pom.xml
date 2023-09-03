@@ -27,11 +27,36 @@
             <artifactId>spring-boot-starter</artifactId>
             <version>2.2.4.RELEASE</version>
         </dependency>
+        <!-- Starter Web - serve para fazer os mapping e outros serviços de rest -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
             <version>2.2.4.RELEASE</version>
         </dependency>
+        <!-- Starter data - serve para trabalhar com dados -->
+        <!--
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-data-jpa</artifactId>
+            <version>2.2.4.RELEASE</version>
+        </dependency>
+        -->
+        <!-- Starter security - serve para trabalhar modulos de segurança -->
+        <!--
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-security</artifactId>
+            <version>2.2.4.RELEASE</version>
+        </dependency>
+        -->
+        <!-- Starter test - serve para trabalhar modulos de teste -->
+        <!--
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+            <version>2.2.4.RELEASE</version>
+        </dependency>
+        -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-autoconfigure</artifactId>
